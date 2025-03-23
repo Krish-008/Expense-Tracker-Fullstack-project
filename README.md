@@ -1,3 +1,4 @@
+The ZIP file contains every thing. But before downloading check for dependencies in your system
 
 This full-stack project allows users to easily track their expenses, categorize them, and view an insightful summary of their spending habits. I developed the frontend using HTML, CSS, and JavaScript to create a smooth and responsive interface, while the backend is powered by Python Flask to handle user data securely.
 
